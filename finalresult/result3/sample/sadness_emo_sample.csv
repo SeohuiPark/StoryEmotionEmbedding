@@ -1,0 +1,11 @@
+,sequence,text,sentword,sentword_vector,emotionlabel
+5487,sentence1,rose liked to draw,liked,"['surprised', 'happy', 'dislike', 'amazed', 'afraid']",7
+8113,sentence1,his favorite player was hunter pence,favorite,"['surprise', 'happy', 'curious', 'surprised', 'interested']",7
+574,sentence3,he went online and found a tutor who accepted money from him,accepted,"['surprised', 'surprise', 'happy', 'involvement', 'interested']",7
+10102,sentence4,john cena won with a suplex finisher move,won,"['surprise', 'happy', 'interest', 'joy', 'enthusiastic']",7
+12395,sentence4,margaret didnt know if she was going to win,win,"['surprise', 'happy', 'surprised', 'interest', 'joy']",7
+2474,sentence4,jack was pleasantly  surprised when on his next test he got an a,pleasantly,"['amazed', 'surprised', 'astonished', 'startled', 'surprise']",7
+2019,sentence5,when jackie got out her dad surprised her with a brand new car,surprised,"['surprised', 'amazed', 'surprise', 'astonished', 'startled']",7
+3804,sentence3,the experience was exciting,exciting,"['surprise', 'amazed', 'surprised', 'happy', 'joyful']",7
+4730,sentence3,it didnt look that impressive with its cheap graphics and font,impressive,"['surprise', 'surprised', 'amazed', 'enthusiasm', 'enthusiastic']",7
+10809,sentence5,luckily they freed the hamper,luckily,"['amazed', 'scared', 'nervous', 'happy', 'surprised']",7

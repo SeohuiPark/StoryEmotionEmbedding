@@ -1,0 +1,41 @@
+﻿,storyid,sequence,text,sentword,sentword_vector,emotionlabel
+15422,90072e82-d445-4631-a141-cdc760d3afa8,sentence4,kia was so upset with herself,kia,"['madden', 'repulsion', 'repulse', 'sadtweet', 'weepy']",0
+15287,e6d6faf1-f61b-4516-ac10-545f2ecaac09,sentence1,the people were angry at the government,angry,"['angry', 'annoyed', 'anger', 'irritated', 'rage']",0
+15245,6d40eb1c-450d-4c64-a929-960d4602b9ce,sentence4,some of the music is okay but most of it was bad,bad,"['mad', 'hate', 'sad', 'worry', 'angry']",0
+5513,dc9d1abe-4a1b-4824-8e4f-2c28162574d6,sentence2,ed decided to seek revenge on his foes,revenge,"['hatred', 'angry', 'anger', 'rage', 'hate']",0
+5390,b6d52068-1338-4984-ab3a-a757c04c1889,sentence1,oliver was really annoyed with hester,annoyed,"['annoyed', 'irritated', 'angry', 'anger', 'irritating']",0
+239,ff609a20-c3d8-464b-938b-a93272e89151,sentence3,she hoped that santa would bring her one anyways,hoped,"['eager', 'happy', 'surprised', 'relief', 'interest']",1
+265,0a5cfe51-08da-4bd3-8925-bcdbb396f368,sentence2,her mom was eager and began talking about the paint,eager,"['eager', 'curious', 'enthusiastic', 'enthusiasm', 'interested']",1
+7867,9e5d5951-ad75-40e7-b1d1-974cc9dadf9f,sentence3,jordan eagerly anticipated getting the letter,eagerly,"['eager', 'curious', 'enthusiastic', 'anxious', 'interested']",1
+9171,62e578af-0f0e-4c33-8a27-eecdb47091ee,sentence5,he looks forward to the next opportunity to attend a dance recital,opportunity,"['eager', 'desperate', 'interest', 'surprise', 'interested']",1
+12672,7632bd51-ae1d-453d-b6a0-53becfbcb633,sentence3,she wondered if the new stepmom would be kind to her,kind,"['curious', 'interested', 'enthusiasm', 'interest', 'eager']",1
+113,0a9ad0d3-f1d7-4288-aeef-c0f183e9c574,sentence3,she took off her clothes and put them into the dirty laundry,dirty,"['disgusting', 'hate', 'afraid', 'scared', 'mad']",2
+281,64ca1e73-92db-485c-8901-9cb060d93fed,sentence4,the people around him looked on in disgust,disgust,"['disgust', 'dislike', 'disgusting', 'anger', 'amazement']",2
+153,192912b7-6d7e-4f6f-a2a4-0627d76c3a81,sentence1,i had a lot of dirty dishes,dirty,"['disgusting', 'hate', 'afraid', 'scared', 'mad']",2
+522,11fa35dd-d9c2-46a4-a630-ec292b22a124,sentence1,mandy was worried everyone would smell her stinky armpits,stinky,"['disgusting', 'irritating', 'loathsome', 'loathe', 'sadden']",2
+831,8de7cc21-7d3d-4fd5-b00c-38101665adac,sentence4,he found some rotten vegetables,rotten,"['disgusting', 'disgust', 'dislike', 'angry', 'gloomy']",2
+449,05a6de10-298d-4251-9293-acf8c39d6fde,sentence3,then a police truck pulled up next to him and he began to worry,worry,"['worry', 'fear', 'worried', 'nervous', 'worrying']",3
+1035,a76882c7-d121-45a6-af95-63c5d5cc4975,sentence4,she began to worry when he stopped responding to her text messages,worry,"['worry', 'fear', 'worried', 'nervous', 'worrying']",3
+1095,afc00cd3-3849-4ff3-b453-21fe66a24e47,sentence2,i was really scared because i didnt know anyone,scared,"['scared', 'nervous', 'anxious', 'afraid', 'worried']",3
+1306,e4f628e9-7420-4e67-a983-6438499f8521,sentence4,so i tried to color when i was feeling very anxious,anxious,"['anxious', 'nervous', 'scared', 'worried', 'fear']",3
+1872,76a79af3-e943-4d45-94c7-71a9ae22e327,sentence5,barry was very anxious and nervous for his upcoming plane ride,nervous,"['nervous', 'anxious', 'scared', 'worried', 'panic']",3
+42,6ebc8d48-029b-4f00-89b3-773ce802825e,sentence4,they were happy to reconnect with each other,happy,"['happy', 'happiness', 'joy', 'joyful', 'sohappy']",4
+77,4014eba9-f77e-4c1d-843f-135b6ec3aa42,sentence5,suzy was so happy that daddy bought her the paw patrol toy,happy,"['happy', 'happiness', 'joy', 'joyful', 'sohappy']",4
+12560,73494f47-725c-4ea3-ba3f-9cc83e547559,sentence5,she hugged him and thanked him joyfully,joyfully,"['joyous', 'joyful', 'amazement', 'amazed', 'sadden']",4
+14448,8772258a-571f-487f-bdc4-548430347d39,sentence1,megan was celebrating her birthday with a gift from her husband,celebrating,"['joyous', 'joy', 'happy', 'joyful', 'happiness']",4
+11778,c618a171-59c0-40c1-b7de-9775614266ff,sentence5,our family enjoyed the beauty of nature and our time together,beauty,"['happiness', 'joy', 'surprise', 'amazed', 'grief']",4
+1430,33f31cbc-d943-46b8-8942-34d8132434df,sentence2,she was having trouble dealing with her grief,grief,"['grief', 'sadness', 'sorrow', 'despair', 'grieving']",6
+1429,33f31cbc-d943-46b8-8942-34d8132434df,sentence1,cora was sad her father had passed away,sad,"['sad', 'sadness', 'desperate', 'grief', 'gloomy']",6
+11835,e9940785-8f7d-4e9a-b93b-6dd55b498c40,sentence5,she cried a lot until she got the blue sunglasses,cried,"['grief', 'scared', 'joy', 'sorrow', 'amazement']",6
+11862,c24fa0ea-cad1-481f-b24e-6c0f5a5f5ec1,sentence4,she started crying in frustration,cry,"['sad', 'grief', 'despair', 'sorrow', 'afraid']",6
+12617,b3e2b5ff-9e3c-4e8a-8094-3f487ad15e86,sentence3,but he began to feel pain in his heart,pain,"['grief', 'sadness', 'sorrow', 'anger', 'irritation']",6
+48,c6cb2537-d223-4490-a026-1d3ccc7548f2,sentence3,her parents surprised her and bought her a puppy,surprised,"['surprised', 'amazed', 'surprise', 'astonished', 'startled']",7
+351,5c9089aa-a72d-4638-a5c7-f4f91380fd11,sentence4,when she got there she was astonished by the amount of forestry,astonished,"['amazed', 'astonished', 'surprised', 'startled', 'surprise']",7
+409,9e874505-3d85-4437-ac9e-ba7959ac95a1,sentence5,i was amazed at what i saw,amazed,"['amazed', 'surprised', 'astonished', 'surprise', 'startled']",7
+1065,5452056b-db3a-48c2-bf08-23d3f187150e,sentence5,he was thrilled to see a c on his report card a week later,thrilled,"['amazed', 'surprised', 'astonished', 'happy', 'enthusiastic']",7
+8247,10215690-3f06-4002-a464-08af6597eea8,sentence1,when christian had his heart attack his whole family was in shock,attack,"['surprise', 'angry', 'anger', 'hatred', 'involvement']",7
+1062,c03caf9c-1287-4b4c-ac5b-c2d07ab66d22,sentence2,dans boss was trusting him to open a new branch successfully,successfully,"['relief', 'relieved', 'surprise', 'interested', 'surprised']",5
+1330,73934102-e7d9-4338-9fcc-5878559c50e1,sentence5,mary felt relieved and goes home to feed her baby,relieved,"['relieved', 'relief', 'surprised', 'annoyed', 'amazed']",5
+6689,324a4ca1-27ad-44f7-8bb4-272ca900eca2,sentence5,while he ate she called his owner who thanked her for helping,thanked,"['relief', 'enthusiastic', 'joy', 'happy', 'sorrow']",5
+1084,75b0815b-a28b-4a5d-afff-440b9d921bb5,sentence1,norman believed a lot in charity,charity,"['relief', 'involvement', 'interest', 'hate', 'joy']",5
+4274,50cdc817-7f92-455f-8015-bc0686dc3335,sentence5,she was rather relieved about that,relieved,"['relieved', 'relief', 'surprised', 'annoyed', 'amazed']",5

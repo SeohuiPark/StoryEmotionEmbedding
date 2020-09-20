@@ -1,0 +1,11 @@
+,sequence,text,sentword,sentword_vector,emotionlabel
+79,sentence1,robert was bored with life he need some entertainment,entertainment,"['interested', 'curious', 'happy', 'interest', 'joy']",1
+1696,sentence2,she saw a coworker get a huge commission and kelsey wanted it too,huge,"['interest', 'relief', 'surprise', 'anger', 'fear']",1
+9224,sentence2,one day bobby decided to get big and strong,strong,"['interest', 'fear', 'enthusiasm', 'surprise', 'worried']",1
+7822,sentence5,he was right and they got along well,well,"['interest', 'happy', 'relief', 'surprise', 'interested']",1
+270,sentence2,he decided to join a gym to learn how to box,join,"['eager', 'interested', 'interest', 'happy', 'involvement']",1
+10305,sentence1,nate expressed his interest in music during class,interest,"['interest', 'interested', 'enthusiasm', 'curious', 'eager']",1
+5596,sentence2,growing up an orphan thomas lived a hard life,growing,"['interest', 'anger', 'fear', 'enthusiasm', 'worried']",1
+2223,sentence4,she emailed the requester to find out why they rejected her,rejected,"['involvement', 'angry', 'interested', 'relief', 'anger']",1
+6011,sentence3,the coach told brad to gain about ten pounds of muscle then come back,gain,"['interest', 'enthusiasm', 'surprise', 'eager', 'involvement']",1
+9635,sentence2,but what he never managed to conquer was jet lag,lag,"['interest', 'worrying', 'enthusiasm', 'worry', 'irritating']",1

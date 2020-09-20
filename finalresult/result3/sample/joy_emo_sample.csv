@@ -1,0 +1,11 @@
+,sequence,text,sentword,sentword_vector,emotionlabel
+18840,sentence1,when i was in middle school we played outside often,played,"['happy', 'sad', 'nervous', 'interest', 'surprise']",4
+29537,sentence5,tom put his hair in a ponytail and played basketball he was happy,happy,"['happy', 'happiness', 'joy', 'joyful', 'joyous']",4
+7793,sentence2,he figured it would be a nice gesture,nice,"['happy', 'surprise', 'sad', 'surprised', 'cheerful']",4
+25271,sentence3,her couch was too short so i didnt fit on it,fit,"['happy', 'rage', 'surprised', 'mad', 'interested']",4
+19359,sentence5,they went home together happy as can be,happy,"['happy', 'happiness', 'joy', 'joyful', 'joyous']",4
+31003,sentence5,mike had a great time on his vacation,great,"['joy', 'relief', 'enthusiasm', 'happiness', 'interest']",4
+7588,sentence5,she ended up feeling very comfortable,comfortable,"['happy', 'nervous', 'surprised', 'worried', 'cheerful']",4
+4674,sentence1,jeremy stammered when he talked and people made fun of him,fun,"['joy', 'happy', 'cheerful', 'happiness', 'enthusiasm']",4
+23438,sentence5,the bird still visits bills home to thank him every week,thank,"['happy', 'joy', 'relief', 'relieved', 'surprised']",4
+29021,sentence1,sebastian had downloaded a new fitness app on his phone,fitness,"['happiness', 'happy', 'joy', 'nervous', 'worry']",4

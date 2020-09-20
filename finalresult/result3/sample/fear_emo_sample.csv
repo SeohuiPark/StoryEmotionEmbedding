@@ -1,0 +1,11 @@
+,sequence,text,sentword,sentword_vector,emotionlabel
+14672,sentence3,little did she know the microwave was broken,broken,"['fear', 'nervous', 'afraid', 'relief', 'worried']",3
+2935,sentence5,after his first lesson dan was less anxious about his wedding dance,anxious,"['anxious', 'nervous', 'scared', 'worried', 'fear']",3
+11920,sentence1,jay had no idea what a haboob storm was before moving to arizona,no,"['fear', 'interest', 'surprise', 'worry', 'relief']",3
+13639,sentence5,from then on he never wasted so much food,wasted,"['dreadful', 'enthusiasm', 'happiness', 'happy', 'worrying']",3
+17965,sentence5,toms team had a pizza party anyway and tom didnt mind losing much,party,"['fear', 'anger', 'happy', 'surprise', 'interest']",3
+12774,sentence4,i moved back to the house id tried so hard to escape,escape,"['fear', 'desperate', 'panic', 'afraid', 'scared']",3
+2697,sentence2,when it was bobs turn to hide he waited and waited,hide,"['afraid', 'fear', 'scared', 'relief', 'disgust']",3
+210,sentence5,i feel harry is a disturbed child,disturbed,"['nervous', 'scared', 'horrified', 'anxious', 'worried']",3
+5896,sentence5,he explained the problems to jed,problem,"['worry', 'fear', 'worrying', 'worried', 'nervous']",3
+12515,sentence5,i hope they can get back on their feet and do well for themselves,hope,"['fear', 'worry', 'anxious', 'enthusiasm', 'interest']",3

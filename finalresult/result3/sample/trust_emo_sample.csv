@@ -1,0 +1,11 @@
+,sequence,text,sentword,sentword_vector,emotionlabel
+16947,sentence1,tom let a friend crash on his couch,friend,"['grief', 'angry', 'sad', 'happy', 'surprise']",6
+18231,sentence4,next morning i convinced my friend that i will copy her assignment,friend,"['grief', 'angry', 'sad', 'happy', 'surprise']",6
+24691,sentence1,tom was at the bar with friends,friend,"['grief', 'angry', 'sad', 'happy', 'surprise']",6
+22826,sentence1,timothy loved eating sushi,loved,"['grief', 'grieving', 'joy', 'happy', 'afraid']",6
+7031,sentence4,she ended up making a bad meal,bad,"['sad', 'mad', 'worry', 'worried', 'afraid']",6
+5145,sentence5,when the town citizens walked by his house they loved it,loved,"['grief', 'grieving', 'joy', 'happy', 'afraid']",6
+4957,sentence3,they sold a tour to her friends and family,friend,"['grief', 'angry', 'sad', 'happy', 'surprise']",6
+6983,sentence3,she ended up giving it to friends,friend,"['grief', 'angry', 'sad', 'happy', 'surprise']",6
+1863,sentence5,the cop wrote justin a ticket and he was so ashamed,ashamed,"['sad', 'scared', 'afraid', 'horrified', 'sadness']",6
+25556,sentence1,tommy loved to hike,loved,"['grief', 'grieving', 'joy', 'happy', 'afraid']",6

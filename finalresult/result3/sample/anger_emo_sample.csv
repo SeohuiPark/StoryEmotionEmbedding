@@ -1,0 +1,11 @@
+,sequence,text,sentword,sentword_vector,emotionlabel
+14984,sentence4,he injured his knee and never played again,injured,"['angry', 'panic', 'desperate', 'grieving', 'sad']",0
+19131,sentence3,she stops her car and rolls her window down,stop,"['hate', 'angry', 'fear', 'hatred', 'panic']",0
+12542,sentence4,the canoe went upside down in the water and the girls were stuck,stuck,"['angry', 'happy', 'worried', 'afraid', 'scared']",0
+12252,sentence3,kia did her best to soothe him,kia,"['madden', 'repulsion', 'repulse', 'weepy', 'sadtweet']",0
+17413,sentence5,she had fallen ill earlier that winter,ill,"['angry', 'anger', 'mad', 'desperate', 'sad']",0
+11385,sentence5,kia decided the gift was wonderful after all,kia,"['madden', 'repulsion', 'repulse', 'weepy', 'sadtweet']",0
+8042,sentence3,i sent a fake letter from a vedanta society asking her to teach yoga,fake,"['mad', 'angry', 'panic', 'hate', 'fear']",0
+19059,sentence4,once done he didnt like the color anymore,like,"['hate', 'fear', 'worry', 'mad', 'afraid']",0
+15658,sentence2,he was frustrated a ton by the rules of the game,frustrated,"['angry', 'annoyed', 'irritated', 'anxious', 'worried']",0
+19451,sentence5,he pushed them aside and stopped the fight,fight,"['hatred', 'hate', 'rage', 'angry', 'mad']",0

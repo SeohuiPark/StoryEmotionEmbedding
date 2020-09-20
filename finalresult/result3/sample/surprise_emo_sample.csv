@@ -1,0 +1,11 @@
+,sequence,text,sentword,sentword_vector,emotionlabel
+923,sentence5,but she agreed to help since he was family,help,"['relief', 'eager', 'interest', 'desperate', 'fear']",5
+3821,sentence2,he was helping his wife shop,helping,"['relief', 'interest', 'eager', 'interested', 'involvement']",5
+2749,sentence3,he opened the cupboard and reached for the bag of sugar,reached,"['relief', 'surprise', 'surprised', 'relieved', 'interest']",5
+939,sentence5,so jenna invited him to give to charities to pay less,charity,"['relief', 'involvement', 'interest', 'hate', 'desperate']",5
+1887,sentence5,toms classes were cancelled,cancelled,"['relieved', 'relief', 'surprise', 'anger', 'mad']",5
+411,sentence5,he decided to invest all of his college money to a charity in africa,charity,"['relief', 'involvement', 'interest', 'hate', 'desperate']",5
+3745,sentence1,i was helping a coach with his soccer team,helping,"['relief', 'interest', 'eager', 'interested', 'involvement']",5
+5049,sentence3,she felt prepared,prepared,"['relief', 'eager', 'surprised', 'anxious', 'afraid']",5
+1098,sentence5,just at that moment the clouds parted and martin felt relieved,relieved,"['relieved', 'relief', 'surprised', 'amazed', 'surprise']",5
+2440,sentence5,nellie let go of her selfconsciousness and gradually improved,improved,"['relief', 'relieved', 'interest', 'surprised', 'happy']",5

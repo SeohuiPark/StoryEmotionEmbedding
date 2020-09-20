@@ -1,0 +1,11 @@
+,sequence,text,sentword,sentword_vector,emotionlabel
+2162,sentence4,she knew the brownie was unhealthy,unhealthy,"['disgusting', 'irritating', 'dislike', 'hateful', 'hatred']",2
+1076,sentence2,it got dirty when he took it off road,dirty,"['disgusting', 'hateful', 'afraid', 'mad', 'hate']",2
+440,sentence2,he had a horrible cavity,horrible,"['disgusting', 'dreadful', 'sad', 'grief', 'sorrow']",2
+128,sentence4,she finally gave up in disgust and used the audio prompt,disgust,"['disgust', 'disgusting', 'dislike', 'anger', 'amazement']",2
+1326,sentence5,it was disgusting,disgusting,"['disgusting', 'disgust', 'dislike', 'loathsome', 'loathe']",2
+2409,sentence3,they hated having a cold car every winter morning,hated,"['dislike', 'hate', 'loathe', 'hatred', 'annoyed']",2
+1140,sentence5,the milk was spilling everywhere ruining everything,ruining,"['disgusting', 'afraid', 'worrying', 'loathe', 'fear']",2
+2183,sentence1,joe thought it was ridiculous to waste time sitting by the lake,waste,"['disgusting', 'anger', 'fear', 'worry', 'hate']",2
+3064,sentence2,he read about how coffee is unhealthy,unhealthy,"['disgusting', 'irritating', 'dislike', 'hateful', 'hatred']",2
+2384,sentence3,yet again he was making cruel digs at me,cruel,"['disgusting', 'sad', 'hateful', 'desperate', 'dreadful']",2

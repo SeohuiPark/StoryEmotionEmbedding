@@ -1,0 +1,81 @@
+,sequence,text,sentword,sentword_vector,emotionlabel
+0,sentence1,jeremy stammered when he talked and people made fun of him,fun,"['joy', 'happy', 'cheerful', 'happiness', 'enthusiasm']",4
+1,sentence4,margaret didnt know if she was going to win,win,"['surprise', 'happy', 'surprised', 'interest', 'joy']",7
+2,sentence4,i moved back to the house id tried so hard to escape,escape,"['fear', 'desperate', 'panic', 'afraid', 'scared']",3
+3,sentence5,luckily they freed the hamper,luckily,"['amazed', 'scared', 'nervous', 'happy', 'surprised']",7
+4,sentence1,rose liked to draw,liked,"['surprised', 'happy', 'dislike', 'amazed', 'afraid']",7
+5,sentence3,they hated having a cold car every winter morning,hated,"['dislike', 'hate', 'loathe', 'hatred', 'annoyed']",2
+6,sentence5,when jackie got out her dad surprised her with a brand new car,surprised,"['surprised', 'amazed', 'surprise', 'astonished', 'startled']",7
+7,sentence3,the coach told brad to gain about ten pounds of muscle then come back,gain,"['interest', 'enthusiasm', 'surprise', 'eager', 'involvement']",1
+8,sentence5,so jenna invited him to give to charities to pay less,charity,"['relief', 'involvement', 'interest', 'hate', 'desperate']",5
+9,sentence2,one day bobby decided to get big and strong,strong,"['interest', 'fear', 'enthusiasm', 'surprise', 'worried']",1
+10,sentence1,tommy loved to hike,loved,"['grief', 'grieving', 'joy', 'happy', 'afraid']",6
+11,sentence4,john cena won with a suplex finisher move,won,"['surprise', 'happy', 'interest', 'joy', 'enthusiastic']",7
+12,sentence2,but what he never managed to conquer was jet lag,lag,"['interest', 'worrying', 'enthusiasm', 'worry', 'irritating']",1
+13,sentence3,he opened the cupboard and reached for the bag of sugar,reached,"['relief', 'surprise', 'surprised', 'relieved', 'interest']",5
+14,sentence3,the experience was exciting,exciting,"['surprise', 'amazed', 'surprised', 'happy', 'joyful']",7
+15,sentence4,she knew the brownie was unhealthy,unhealthy,"['disgusting', 'irritating', 'dislike', 'hateful', 'hatred']",2
+16,sentence3,it didnt look that impressive with its cheap graphics and font,impressive,"['surprise', 'surprised', 'amazed', 'enthusiasm', 'enthusiastic']",7
+17,sentence4,she finally gave up in disgust and used the audio prompt,disgust,"['disgust', 'disgusting', 'dislike', 'anger', 'amazement']",2
+18,sentence5,the milk was spilling everywhere ruining everything,ruining,"['disgusting', 'afraid', 'worrying', 'loathe', 'fear']",2
+19,sentence4,she ended up making a bad meal,bad,"['sad', 'mad', 'worry', 'worried', 'afraid']",6
+20,sentence4,he injured his knee and never played again,injured,"['angry', 'panic', 'desperate', 'grieving', 'sad']",0
+21,sentence3,he went online and found a tutor who accepted money from him,accepted,"['surprised', 'surprise', 'happy', 'involvement', 'interested']",7
+22,sentence5,i feel harry is a disturbed child,disturbed,"['nervous', 'scared', 'horrified', 'anxious', 'worried']",3
+23,sentence2,he was helping his wife shop,helping,"['relief', 'interest', 'eager', 'interested', 'involvement']",5
+24,sentence2,growing up an orphan thomas lived a hard life,growing,"['interest', 'anger', 'fear', 'enthusiasm', 'worried']",1
+25,sentence1,tom let a friend crash on his couch,friend,"['grief', 'angry', 'sad', 'happy', 'surprise']",6
+26,sentence5,nellie let go of her selfconsciousness and gradually improved,improved,"['relief', 'relieved', 'interest', 'surprised', 'happy']",5
+27,sentence5,it was disgusting,disgusting,"['disgusting', 'disgust', 'dislike', 'loathsome', 'loathe']",2
+28,sentence5,she ended up feeling very comfortable,comfortable,"['happy', 'nervous', 'surprised', 'worried', 'cheerful']",4
+29,sentence3,she felt prepared,prepared,"['relief', 'eager', 'surprised', 'anxious', 'afraid']",5
+30,sentence5,i hope they can get back on their feet and do well for themselves,hope,"['fear', 'worry', 'anxious', 'enthusiasm', 'interest']",3
+31,sentence2,he figured it would be a nice gesture,nice,"['happy', 'surprise', 'sad', 'surprised', 'cheerful']",4
+32,sentence5,mike had a great time on his vacation,great,"['joy', 'relief', 'enthusiasm', 'happiness', 'interest']",4
+33,sentence5,kia decided the gift was wonderful after all,kia,"['madden', 'repulsion', 'repulse', 'weepy', 'sadtweet']",0
+34,sentence5,toms team had a pizza party anyway and tom didnt mind losing much,party,"['fear', 'anger', 'happy', 'surprise', 'interest']",3
+35,sentence5,just at that moment the clouds parted and martin felt relieved,relieved,"['relieved', 'relief', 'surprised', 'amazed', 'surprise']",5
+36,sentence2,she saw a coworker get a huge commission and kelsey wanted it too,huge,"['interest', 'relief', 'surprise', 'anger', 'fear']",1
+37,sentence1,jay had no idea what a haboob storm was before moving to arizona,no,"['fear', 'interest', 'surprise', 'worry', 'relief']",3
+38,sentence5,but she agreed to help since he was family,help,"['relief', 'eager', 'interest', 'desperate', 'fear']",5
+39,sentence3,little did she know the microwave was broken,broken,"['fear', 'nervous', 'afraid', 'relief', 'worried']",3
+40,sentence5,they went home together happy as can be,happy,"['happy', 'happiness', 'joy', 'joyful', 'joyous']",4
+41,sentence5,he explained the problems to jed,problem,"['worry', 'fear', 'worrying', 'worried', 'nervous']",3
+42,sentence1,when i was in middle school we played outside often,played,"['happy', 'sad', 'nervous', 'interest', 'surprise']",4
+43,sentence5,the cop wrote justin a ticket and he was so ashamed,ashamed,"['sad', 'scared', 'afraid', 'horrified', 'sadness']",6
+44,sentence4,she emailed the requester to find out why they rejected her,rejected,"['involvement', 'angry', 'interested', 'relief', 'anger']",1
+45,sentence4,jack was pleasantly  surprised when on his next test he got an a,pleasantly,"['amazed', 'surprised', 'astonished', 'startled', 'surprise']",7
+46,sentence5,he decided to invest all of his college money to a charity in africa,charity,"['relief', 'involvement', 'interest', 'hate', 'desperate']",5
+47,sentence5,he pushed them aside and stopped the fight,fight,"['hatred', 'hate', 'rage', 'angry', 'mad']",0
+48,sentence3,yet again he was making cruel digs at me,cruel,"['disgusting', 'sad', 'hateful', 'desperate', 'dreadful']",2
+49,sentence1,timothy loved eating sushi,loved,"['grief', 'grieving', 'joy', 'happy', 'afraid']",6
+50,sentence1,robert was bored with life he need some entertainment,entertainment,"['interested', 'curious', 'happy', 'interest', 'joy']",1
+51,sentence2,when it was bobs turn to hide he waited and waited,hide,"['afraid', 'fear', 'scared', 'relief', 'disgust']",3
+52,sentence3,she stops her car and rolls her window down,stop,"['hate', 'angry', 'fear', 'hatred', 'panic']",0
+53,sentence1,tom was at the bar with friends,friend,"['grief', 'angry', 'sad', 'happy', 'surprise']",6
+54,sentence4,once done he didnt like the color anymore,like,"['hate', 'fear', 'worry', 'mad', 'afraid']",0
+55,sentence2,he read about how coffee is unhealthy,unhealthy,"['disgusting', 'irritating', 'dislike', 'hateful', 'hatred']",2
+56,sentence3,she ended up giving it to friends,friend,"['grief', 'angry', 'sad', 'happy', 'surprise']",6
+57,sentence5,from then on he never wasted so much food,wasted,"['dreadful', 'enthusiasm', 'happiness', 'happy', 'worrying']",3
+58,sentence1,nate expressed his interest in music during class,interest,"['interest', 'interested', 'enthusiasm', 'curious', 'eager']",1
+59,sentence2,he had a horrible cavity,horrible,"['disgusting', 'dreadful', 'sad', 'grief', 'sorrow']",2
+60,sentence1,sebastian had downloaded a new fitness app on his phone,fitness,"['happiness', 'happy', 'joy', 'nervous', 'worry']",4
+61,sentence3,her couch was too short so i didnt fit on it,fit,"['happy', 'rage', 'surprised', 'mad', 'interested']",4
+62,sentence2,he was frustrated a ton by the rules of the game,frustrated,"['angry', 'annoyed', 'irritated', 'anxious', 'worried']",0
+63,sentence4,next morning i convinced my friend that i will copy her assignment,friend,"['grief', 'angry', 'sad', 'happy', 'surprise']",6
+64,sentence4,the canoe went upside down in the water and the girls were stuck,stuck,"['angry', 'happy', 'worried', 'afraid', 'scared']",0
+65,sentence5,he was right and they got along well,well,"['interest', 'happy', 'relief', 'surprise', 'interested']",1
+66,sentence5,after his first lesson dan was less anxious about his wedding dance,anxious,"['anxious', 'nervous', 'scared', 'worried', 'fear']",3
+67,sentence3,i sent a fake letter from a vedanta society asking her to teach yoga,fake,"['mad', 'angry', 'panic', 'hate', 'fear']",0
+68,sentence5,when the town citizens walked by his house they loved it,loved,"['grief', 'grieving', 'joy', 'happy', 'afraid']",6
+69,sentence5,toms classes were cancelled,cancelled,"['relieved', 'relief', 'surprise', 'anger', 'mad']",5
+70,sentence1,joe thought it was ridiculous to waste time sitting by the lake,waste,"['disgusting', 'anger', 'fear', 'worry', 'hate']",2
+71,sentence1,i was helping a coach with his soccer team,helping,"['relief', 'interest', 'eager', 'interested', 'involvement']",5
+72,sentence2,he decided to join a gym to learn how to box,join,"['eager', 'interested', 'interest', 'happy', 'involvement']",1
+73,sentence5,tom put his hair in a ponytail and played basketball he was happy,happy,"['happy', 'happiness', 'joy', 'joyful', 'joyous']",4
+74,sentence3,they sold a tour to her friends and family,friend,"['grief', 'angry', 'sad', 'happy', 'surprise']",6
+75,sentence3,kia did her best to soothe him,kia,"['madden', 'repulsion', 'repulse', 'weepy', 'sadtweet']",0
+76,sentence2,it got dirty when he took it off road,dirty,"['disgusting', 'hateful', 'afraid', 'mad', 'hate']",2
+77,sentence5,the bird still visits bills home to thank him every week,thank,"['happy', 'joy', 'relief', 'relieved', 'surprised']",4
+78,sentence5,she had fallen ill earlier that winter,ill,"['angry', 'anger', 'mad', 'desperate', 'sad']",0
+79,sentence1,his favorite player was hunter pence,favorite,"['surprise', 'happy', 'curious', 'surprised', 'interested']",7
